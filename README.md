@@ -26,15 +26,6 @@
 
 ---
 
-## Featured Projects
-- 🧠 **AI-Based Alzheimer’s Disease Research**
-- 🤖 **Persian LLM Fine-Tuning and Retrieval-Augmented Question Answering**
-- 👁️ **Driver Drowsiness Detection Using Computer Vision**
-- ☁️ **Cloud Task Scheduling Optimization Using CloudSim**
-- 🏥 **Hospital Management Database System**
-
----
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
