@@ -15,14 +15,10 @@
 ---
 
 ## Research Interests
-- Artificial Intelligence
-- Machine Learning
-- Medical AI
-- Alzheimer’s Disease Modeling
-- Natural Language Processing
-- Large Language Models
-- Computer Vision
-- Biomedical Data Analysis
+- Artificial Intelligence and Machine Learning for Healthcare Applications
+- Medical AI and Biomedical Data Analysis
+- Alzheimer’s Disease Early Detection and Progression Modeling
+- Deep Learning, Computer Vision, and Natural Language Processing
 
 ---
 
