@@ -41,14 +41,6 @@
 
 ---
 
-## GitHub Stats
-
-![Farnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faryafth&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faryafth&layout=compact&theme=tokyonight)
-
----
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/farnaz-fattahi-208373a7)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Faryafth)
